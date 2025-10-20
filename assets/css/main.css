@@ -3803,7 +3803,7 @@ section,
 --------------------------------------------------------------*/
 .contact .contact-main-wrapper {
   position: relative;
-  display: grid;
+  display: flex;
   grid-template-columns: 1fr;
   gap: 30px;
 }
